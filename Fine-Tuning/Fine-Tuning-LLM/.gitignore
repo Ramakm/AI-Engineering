@@ -1,0 +1,5 @@
+data/*.jsonl
+outputs/
+llama32-3b-*/
+*.gguf
+.DS_Store

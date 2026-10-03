@@ -1,0 +1,12 @@
+# Needs an NVIDIA GPU (Colab T4 is fine). Notebooks 01-04 run on CPU.
+unsloth
+trl
+peft
+accelerate
+bitsandbytes
+datasets
+transformers
+evaluate
+rouge_score
+pandas
+matplotlib
